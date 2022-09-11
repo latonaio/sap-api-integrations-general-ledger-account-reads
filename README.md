@@ -33,10 +33,10 @@ sap-api-integrations-general-ledger-account-reads において、API への値�
 
 ### SDC レイアウト
 
-* inputSDC.GLAccount.ChartOfAccounts,ChartOfAccounts（勘定コード表）
-* inputSDC.GLAccount.ChartOfAccounts,GLAccount（GL勘定コード）
-* inputSDC.GLAccount.ChartOfAccounts.Text.Language（言語）
-* inputSDC.GLAccount.ChartOfAccounts.Text.GLAccountName（GL勘定名称）
+* inputSDC.GLAccount.ChartOfAccounts（勘定コード表）
+* inputSDC.GLAccount.GLAccount（GL勘定コード）
+* inputSDC.GLAccount.Text.Language（言語）
+* inputSDC.GLAccount.Text.GLAccountName（GL勘定名称）
 
 ## SAP API Bussiness Hub の API の選択的コール
 
