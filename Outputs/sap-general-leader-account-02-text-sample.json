@@ -1,0 +1,64 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-general-ledger-account-reads/SAP_API_Caller/caller.go#L67",
+	"function": "sap-api-integrations-general-leader-account-reads/SAP_API_Caller.(*SAPAPICaller).ChartOfAccounts",
+	"level": "INFO",
+	"message": [
+		{
+			"ChartOfAccounts": "INT",
+			"GLAccount": "2000",
+			"Language": "EN",
+			"GLAccountName": "Buildings",
+			"GLAccountLongName": "Buildings",
+			"LastChangeDateTime": ""
+		},
+		{
+			"ChartOfAccounts": "INT",
+			"GLAccount": "2000",
+			"Language": "JA",
+			"GLAccountName": "建物",
+			"GLAccountLongName": "建物",
+			"LastChangeDateTime": ""
+		},
+		{
+			"ChartOfAccounts": "INT",
+			"GLAccount": "2000",
+			"Language": "DE",
+			"GLAccountName": "Bauten",
+			"GLAccountLongName": "Bauten",
+			"LastChangeDateTime": ""
+		},
+		{
+			"ChartOfAccounts": "INT",
+			"GLAccount": "2000",
+			"Language": "FR",
+			"GLAccountName": "Bâtiments",
+			"GLAccountLongName": "Bâtiments",
+			"LastChangeDateTime": ""
+		},
+		{
+			"ChartOfAccounts": "INT",
+			"GLAccount": "2000",
+			"Language": "IT",
+			"GLAccountName": "Fabbricati",
+			"GLAccountLongName": "Fabbricati",
+			"LastChangeDateTime": ""
+		},
+		{
+			"ChartOfAccounts": "INT",
+			"GLAccount": "2000",
+			"Language": "NL",
+			"GLAccountName": "Gebouwen",
+			"GLAccountLongName": "Gebouwen",
+			"LastChangeDateTime": ""
+		},
+		{
+			"ChartOfAccounts": "INT",
+			"GLAccount": "2000",
+			"Language": "ES",
+			"GLAccountName": "Edificios",
+			"GLAccountLongName": "Edificios",
+			"LastChangeDateTime": ""
+		}
+	],
+	"time": "2022-09-11T14:23:27+09:00"
+}

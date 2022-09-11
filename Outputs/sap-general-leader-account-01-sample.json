@@ -1,0 +1,30 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-general-ledger-account-reads/SAP_API_Caller/caller.go#L60",
+	"function": "sap-api-integrations-general-leader-account-reads/SAP_API_Caller.(*SAPAPICaller).ChartOfAccounts",
+	"level": "INFO",
+	"message": [
+		{
+			"ChartOfAccounts": "INT",
+			"GLAccount": "2000",
+			"IsBalanceSheetAccount": true,
+			"GLAccountGroup": "AS",
+			"CorporateGroupAccount": "",
+			"ProfitLossAccountType": "",
+			"SampleGLAccount": "",
+			"AccountIsMarkedForDeletion": false,
+			"AccountIsBlockedForCreation": false,
+			"AccountIsBlockedForPosting": false,
+			"AccountIsBlockedForPlanning": false,
+			"PartnerCompany": "",
+			"FunctionalArea": "",
+			"CreationDate": "1992-06-23",
+			"CreatedByUser": "SAP",
+			"LastChangeDateTime": "",
+			"GLAccountType": "X",
+			"GLAccountExternal": "002000",
+			"IsProfitLossAccount": false,
+			"to_Text": "http://100.21.57.120:8080/sap/opu/odata/sap/API_GLACCOUNTINCHARTOFACCOUNTS_SRV/A_GLAccountInChartOfAccounts(ChartOfAccounts='INT',GLAccount='2000')/to_Text"
+		}
+	],
+	"time": "2022-09-11T14:23:27+09:00"
+}

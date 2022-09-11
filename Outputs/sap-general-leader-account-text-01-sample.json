@@ -1,0 +1,41 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-general-ledger-account-reads/SAP_API_Caller/caller.go#L109",
+	"function": "sap-api-integrations-general-leader-account-reads/SAP_API_Caller.(*SAPAPICaller).Text",
+	"level": "INFO",
+	"message": [
+		{
+			"ChartOfAccounts": "INT",
+			"GLAccount": "2010",
+			"Language": "EN",
+			"GLAccountName": "ADP - Buildings",
+			"GLAccountLongName": "Accumulated Depreciation - Buildings",
+			"LastChangeDateTime": ""
+		},
+		{
+			"ChartOfAccounts": "INT",
+			"GLAccount": "2000",
+			"Language": "EN",
+			"GLAccountName": "Buildings",
+			"GLAccountLongName": "Buildings",
+			"LastChangeDateTime": ""
+		},
+		{
+			"ChartOfAccounts": "INT",
+			"GLAccount": "2050",
+			"Language": "EN",
+			"GLAccountName": "Buildings valuation",
+			"GLAccountLongName": "Buildings valuation",
+			"LastChangeDateTime": ""
+		},
+		{
+			"ChartOfAccounts": "INT",
+			"GLAccount": "211120",
+			"Language": "EN",
+			"GLAccountName": "Depr. buildings",
+			"GLAccountLongName": "Depreciation-buildings",
+			"LastChangeDateTime": ""
+		}
+	],
+	"time": "2022-09-11T14:27:25+09:00"
+}
+
